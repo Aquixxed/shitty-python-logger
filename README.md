@@ -1,2 +1,1 @@
-# shitty-python-logger
-some shitty python logger made by ice bear and lithium
+A fork of discord.py , but even better! It includes proxy support.

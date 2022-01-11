@@ -1,0 +1,9 @@
+License.txt
+README.md
+setup.py
+discordproxied/__init__.py
+discordproxied/discordproxied.py
+discordproxied.egg-info/PKG-INFO
+discordproxied.egg-info/SOURCES.txt
+discordproxied.egg-info/dependency_links.txt
+discordproxied.egg-info/top_level.txt
