@@ -1,3 +1,4 @@
+# BTW FUCK BUTTERHUB
 A fork of discord.py , but even better! It includes proxy support.
 
 # Shitty Python logger made by IceBear and Lithium imagine being a skid
